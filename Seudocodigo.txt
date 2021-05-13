@@ -1,0 +1,16 @@
+Program Anagrama
+
+String FirstWord
+String SecondWord
+boolean result
+
+Write "Write First Word"
+Read FirstWord
+Write "Write second Word"
+Read SecondWord
+
+Firstword to lower case
+SecondWord to lower case
+
+FirstWord to Array
+SecondWord to Array
