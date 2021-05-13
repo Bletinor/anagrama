@@ -1,16 +1,32 @@
 Program Anagrama
 
-String FirstWord
-String SecondWord
-boolean result
+    String FirstWord
+    String SecondWord
+    boolean result
 
-Write "Write First Word"
-Read FirstWord
-Write "Write second Word"
-Read SecondWord
+    Write "Write First Word"
+    Read FirstWord
+    Write "Write second Word"
+    Read SecondWord
 
-Firstword to lower case
-SecondWord to lower case
+    Firstword to lower case
+    SecondWord to lower case
 
-FirstWord to Array
-SecondWord to Array
+    FirstWord to Array
+    SecondWord to Array
+
+    if FirstWord length != SecondWord length
+        result = false
+    else
+        sort FirstWord
+        sort SecondWord
+
+        if FirstWord == SecondWord
+            result = verdadero
+        else
+            result = false
+
+    if result = true
+        Write "Son anagramas"
+    else
+        Write "No son anagramas"
