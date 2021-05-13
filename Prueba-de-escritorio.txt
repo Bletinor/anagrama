@@ -10,3 +10,23 @@ FirstWord = {n, i, c, o, l, a, s }
 SecondWord = {c, o, l, i, n, a }
 
 No son anagramas
+
+Caso 2:
+
+FirstWord = Dog
+SecondWord = Cat
+
+FirstWord = dog
+SecondWord = Cat
+
+FirstWord = {d,o,g}
+SecondWord = {c,a,t}
+
+FirstWord = {g,o,t}
+SecoWord = {a,c,t}
+
+
+No son Anagramas
+
+
+
