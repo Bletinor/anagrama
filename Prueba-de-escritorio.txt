@@ -29,4 +29,19 @@ SecoWord = {a,c,t}
 No son Anagramas
 
 
+Caso 3:
+
+FirstWord = Zapato
+SecondWord = Tapazo
+
+FirstWord = zapato
+SecondWord = tapazo 
+
+FirstWord = {z,a,p,a,t,o}
+SecondWord = {t,a,p,a,z,o}
+
+FirstWord = {a,a,o,p,t,z}
+SecondWord = {a,a,o,p,t,z}
+
+Son anagramas
 
