@@ -1,0 +1,15 @@
+Caso 1:
+
+FirstWord = nicola
+SecondWord = colina
+
+FirstWord = nicola 
+SecondWord = colina
+
+FirstWord = {n, i, c, o, l, a}
+SecondWord = {c, o, l, i, n, a}
+
+FirstWord = {a, c, i, l, n, o}
+SecondWord = {a, c, i, l, n, o}
+
+Son anagramas

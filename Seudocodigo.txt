@@ -22,7 +22,7 @@ Program Anagrama
         sort SecondWord
 
         if FirstWord == SecondWord
-            result = verdadero
+            result = true
         else
             result = false
 
