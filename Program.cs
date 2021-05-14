@@ -27,8 +27,8 @@ namespace Anagrama
             }
             else
             {
-                FirstWordArr.Sort();
-                SecondWordArr.Sort();
+                Array.Sort(FirstWordArr);
+                Array.Sort(SecondWordArr);
 
                 if (FirstWordArr == SecondWordArr)
                 {
