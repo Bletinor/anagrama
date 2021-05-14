@@ -13,3 +13,16 @@ FirstWord = {a, c, i, l, n, o}
 SecondWord = {a, c, i, l, n, o}
 
 Son anagramas
+
+Caso 2:
+
+FirstWord = Car
+SecondWord =Call
+
+FirstWord = car
+SecondWord = call
+
+FirstWord = {c,a,r}
+SecondWord = {c,a,l,l}
+
+No son anagramas
