@@ -18,7 +18,36 @@ namespace Anagrama
             FirstWord.ToLower();
             SecondWord.ToLower();
 
-            char[] FirstWord = FirstWord.ToCharArray();
+            char[] FirstWordArr = FirstWord.ToCharArray();
+            char[] SecondWordArr = SecondWord.ToCharArray();
+
+            if (FirstWordArr.Length != FirstWordArr.Length)
+            {
+                result = false;
+            }
+            else
+            {
+                FirstWordArr.Sort();
+                SecondWordArr.Sort();
+
+                if (FirstWordArr == SecondWordArr)
+                {
+                    result = true;
+                }
+                else
+                {
+                    result = false;
+                }
+            }
+
+            if (result)
+            {
+                Console.WriteLine("Son anagrama");
+            }
+            else
+            {
+                Console.WriteLine("No son anagramas");
+            }
            
 
 
