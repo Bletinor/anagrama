@@ -58,3 +58,16 @@ FirstWord = {a,c,t}
 SecondWord = {d,g,o}
 
 No son anagramas
+
+Caso 5:
+
+FirstWord = cedula
+SecondWord = celulA
+
+FirstWord = cedula
+SecondWord = celula 
+
+FirstWord = { a,c,d,e,l,u }
+SecondWord = { a,c,e,l,l,u}
+
+No son anagramas
