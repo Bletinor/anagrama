@@ -26,3 +26,19 @@ FirstWord = {c,a,r}
 SecondWord = {c,a,l,l}
 
 No son anagramas
+
+Caso 3:
+
+FirstWord = MAterialismo
+SecondWord = Memorialista
+
+FirstWord = materialismo 
+SecondWord = memorialista 
+
+FirstWord = { m,a,t,e,r,i,a,l,i,s,m,o }
+SecondWord = { m,e,m,o,r,i,a,l,i,s,t,a }
+
+FirstWord = { a,a,e,i,i,l,m,m,o,r,s,t }
+SecondWord = { a,a,e,i,i,l,m,m,o,r,s,t }
+
+Son anagramas
