@@ -42,3 +42,19 @@ FirstWord = { a,a,e,i,i,l,m,m,o,r,s,t }
 SecondWord = { a,a,e,i,i,l,m,m,o,r,s,t }
 
 Son anagramas
+
+Caso 4:
+
+FirstWord = Cat
+SecondWord = Dog
+
+FirstWord = cat
+SecondWord = dog
+
+FirstWord = {c,a,t}
+FirstWord = {d,o,g}
+
+FirstWord = {a,c,t}
+SecondWord = {d,g,o}
+
+No son anagramas
